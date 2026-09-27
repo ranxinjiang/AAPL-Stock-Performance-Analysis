@@ -1,7 +1,7 @@
 # AAPL Stock Performance Analysis
 
 Statistical analysis of Apple Inc. (AAPL) stock performance over approximately one year 
-of daily trading data, completed for CIS 9557 – Business Analytics.
+of daily trading data. 
 
 ## Overview
 This project uses descriptive statistics, time-series visualizations, and moving averages 
